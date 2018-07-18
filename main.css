@@ -1,0 +1,44 @@
+
+body {
+  font-size: 10px !important;
+  font-family: 'Indie Flower', cursive !important;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+
+#me {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  border: 4px solid black;
+  border-radius: 300px;
+  padding: 7px;
+}
+
+.header {
+  background: url('images/forest.jpeg');
+  height: 40vh;
+  border-bottom: 10px solid rgb(61, 77, 54);
+  border-top: 10px solid rgb(61, 77, 54);
+}
+
+.inline {
+  display: inline-block;
+  padding-left: 10px;
+}
+
+.links {
+  text-align: right;
+}
+
+h2{
+  padding-top:20px;
+  color:white !important;
+  text-align: center;
+
+}
+
+#inform{
+  margin: 30px;
+}
