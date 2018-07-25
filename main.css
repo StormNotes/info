@@ -18,11 +18,26 @@ body {
   padding: 7px;
 }
 
+#extra{
+
+  color: rgb(131, 217, 78);
+  transition-delay: 1.7s;
+  transition: 1.2s;
+
+}
+
+#extra:hover{
+  transition: 1.0s;
+
+  color:rgb(247, 88, 61);
+}
+
 
 
 .header {
   background: url('images/forest.jpeg');
   height: 40vh;
+  margin-bottom: -20px;
   border-bottom: 10px solid rgb(61, 77, 54);
   border-top: 10px solid rgb(61, 77, 54);
 }
